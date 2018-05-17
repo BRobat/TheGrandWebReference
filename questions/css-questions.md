@@ -102,83 +102,83 @@ answer:
 answer:
 
 
-#Have you ever used a grid system, and if so, what do you prefer?
+#11. Have you ever used a grid system, and if so, what do you prefer?
 answer:
 
 
-#Have you used or implemented media queries or mobile specific layouts/CSS?
+#12. Have you used or implemented media queries or mobile specific layouts/CSS?
 answer:
 
 
-#Are you familiar with styling SVG?
+#13. Are you familiar with styling SVG?
 answer:
 
 
-#Can you give an example of an @media property other than screen?
+#14. Can you give an example of an @media property other than screen?
 answer:
 
 
-#What are some of the "gotchas" for writing efficient CSS?
+#15. What are some of the "gotchas" for writing efficient CSS?
 answer:
 
 
-#What are the advantages/disadvantages of using CSS preprocessors?
+#16. What are the advantages/disadvantages of using CSS preprocessors?
 answer:
 
 
-#Describe what you like and dislike about the CSS preprocessors you have used.
+#17. Describe what you like and dislike about the CSS preprocessors you have used.
 answer:
 
 
-#How would you implement a web design comp that uses non-standard fonts?
+#18. How would you implement a web design comp that uses non-standard fonts?
 answer:
 
 
-#Explain how a browser determines what elements match a CSS selector.
+#19. Explain how a browser determines what elements match a CSS selector.
 answer:
 
 
-#Describe pseudo-elements and discuss what they are used for.
+#20. Describe pseudo-elements and discuss what they are used for.
 answer:
 
 
-#Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
+#21. Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
 answer:
 
 
-#What does * { box-sizing: border-box; } do? What are its advantages?
+#22. What does * { box-sizing: border-box; } do? What are its advantages?
 answer:
 
 
-#What is the CSS display property and can you give a few examples of its use?
+#23. What is the CSS display property and can you give a few examples of its use?
 answer:
 
 
-#What's the difference between inline and inline-block?
+#24. What's the difference between inline and inline-block?
 answer:
 
 
-#What's the difference between a relative, fixed, absolute and statically positioned element?
+#25. What's the difference between a relative, fixed, absolute and statically positioned element?
 answer:
 
 
-#What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
+#26. What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
 answer:
 
 
-#Have you played around with the new CSS Flexbox or Grid specs?
+#27. Have you played around with the new CSS Flexbox or Grid specs?
 answer:
 
 
-#Can you explain the difference between coding a web site to be responsive versus using a mobile-first strategy?
+#28. Can you explain the difference between coding a web site to be responsive versus using a mobile-first strategy?
 answer:
 
 
-#Have you ever worked with retina graphics? If so, when and what techniques did you use?
+#29. Have you ever worked with retina graphics? If so, when and what techniques did you use?
 answer:
 
 
-#Is there any reason you'd want to use translate() instead of absolute positioning, or vice-versa? And why?
+#30. Is there any reason you'd want to use translate() instead of absolute positioning, or vice-versa? And why?
 answer:
 
 
