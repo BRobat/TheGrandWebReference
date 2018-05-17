@@ -97,7 +97,7 @@ answer:
 foo.x is undefined 
 foo is object Object
 
-#8. Question: What does the following code print?
+#8. Question: What does the following code print?  
 ```javascript
 
 console.log('one');
@@ -110,7 +110,7 @@ answer:
 
 for 0 seconds the answer is "onethree" but then it turns to "two"
 
-#9. Question: What is the difference between these four promises?
+#9. Question: What is the difference between these four promises?  
 ```javascript
 doSomething().then(function () {
   return doSomethingElse();

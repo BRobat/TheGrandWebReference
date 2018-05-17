@@ -1,5 +1,5 @@
 
-#1. What is CSS selector specificity and how does it work?
+#1. What is CSS selector specificity and how does it work?  
 answer:
 soooooo. CSS selecor is basically a pattern used to select elements you want to style.
 How does it work? you just type something like that:
@@ -65,7 +65,7 @@ a {
 }
 ```
 
-#4. Describe z-index and how stacking context is formed.
+#4. Describe z-index and how stacking context is formed.  
 answer:
 z-index is something-like z axis. So an element with greater z-index value is always in front of a object with lower z-index value
 ```css
