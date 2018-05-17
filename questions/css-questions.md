@@ -1,6 +1,6 @@
 
 #1. What is CSS selector specificity and how does it work?  
-answer:
+answer:  
 soooooo. CSS selecor is basically a pattern used to select elements you want to style.
 How does it work? you just type something like that:
 
@@ -10,7 +10,7 @@ How does it work? you just type something like that:
 }
 ```
 
-and the <div class="selector"> will aquire properties typed in css file.
+and the "<div class="selector">" will aquire properties typed in css file.
 
 there are some other selector types and how to type them
 
