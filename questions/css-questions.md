@@ -1,5 +1,5 @@
 
-#1. What is CSS selector specificity and how does it work?  
+# 1. What is CSS selector specificity and how does it work?\
 answer:  
 soooooo. CSS selecor is basically a pattern used to select elements you want to style.
 How does it work? you just type something like that:
@@ -48,13 +48,13 @@ there are some other selector types and how to type them
 | :valid          | input:valid     |   Selects all input elements with a valid value            |
 | :visited        | a:visited       |   Selects all visited links            |
 
-#2. What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
+# 2. What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
 answer:
 First of all what the heck are those "reset" and "normalization" in CSS? Well, most browsers currently in use (actually all I am aware of) have some starter styles. For example links on most of them are blue. So to get rid of this styles you should reset them. This is where Reset and Normalize comes. Both of them works quite the same and simple, but Normalize also removes browser inconsistencies for HTML and preserve some useful defaults. Normalize is called by some "the new reset". 
 Also i prefer Normalize.css cause its easier to install it via npm.
 
 
-#3. Describe Floats and how they work.
+# 3. Describe Floats and how they work.
 answer:
 Floats are properties used to stick elements to the sides of their containers.
 For example:
@@ -65,7 +65,7 @@ a {
 }
 ```
 
-#4. Describe z-index and how stacking context is formed.  
+# 4. Describe z-index and how stacking context is formed.  
 answer:
 z-index is something-like z axis. So an element with greater z-index value is always in front of a object with lower z-index value
 ```css
@@ -76,37 +76,37 @@ img {
 /* this image will always be below the text */
 ```
 
-#5. Describe BFC(Block Formatting Context) and how it works.
+# 5. Describe BFC(Block Formatting Context) and how it works.
 answer:
 
 
 
-#6. What are the various clearing techniques and which is appropriate for what context?
+# 6. What are the various clearing techniques and which is appropriate for what context?
 answer:
 
 
 
-#7. How would you approach fixing browser-specific styling issues?
+# 7. How would you approach fixing browser-specific styling issues?
 answer:
 
 
-#8. How do you serve your pages for feature-constrained browsers?
+# 8. How do you serve your pages for feature-constrained browsers?
 answer:
 
 
-#9. What techniques/processes do you use?
+# 9. What techniques/processes do you use?
 answer:
 
 
-#10. What are the different ways to visually hide content (and make it available only for screen readers)?
+# 10. What are the different ways to visually hide content (and make it available only for screen readers)?
 answer:
 
 
-#11. Have you ever used a grid system, and if so, what do you prefer?
+# 11. Have you ever used a grid system, and if so, what do you prefer?
 answer:
 
 
-#12. Have you used or implemented media queries or mobile specific layouts/CSS?
+# 12. Have you used or implemented media queries or mobile specific layouts/CSS?
 answer:
 
 
