@@ -1,6 +1,4 @@
-## Coding Questions:
-
-# 1. Question: What is the value of foo?
+### 1. Question: What is the value of foo?
 
 ```javascript
 var foo = 10 + '20';
@@ -11,7 +9,7 @@ answer:
 foo equals '1020'
 
 
-# 2. Question: What will be the output of the code below?
+### 2. Question: What will be the output of the code below?
 ```javascript
 console.log(0.1 + 0.2 == 0.3);
 
@@ -21,7 +19,7 @@ answer:
 should be true
 
 
-# 2. Question: How would you make this work?
+### 2. Question: How would you make this work?
 ```javascript
 add(2, 5); // 7
 add(2)(5); // 7
@@ -41,7 +39,7 @@ function add(a,b) {
 
 ```
 
-# 3. Question: What value is returned from the following statement?
+### 3. Question: What value is returned from the following statement?
 ```javascript
 "i'm a lasagna hog".split("").reverse().join("");
 
@@ -51,7 +49,7 @@ answer:
 as join returns string to the state from before split. It's only reversed. 
 So it's: "goh angasal a m'i"
 
-# 4. Question: What is the value of window.foo?
+### 4. Question: What is the value of window.foo?
 ```javascript
 ( window.foo || ( window.foo = "bar" ) );
 
@@ -60,7 +58,7 @@ answer:
 
 
 
-# 5. Question: What is the outcome of the two alerts below?
+### 5. Question: What is the outcome of the two alerts below?
 ```javascript
 var foo = "Hello";
 (function() {
@@ -74,7 +72,7 @@ answer:
 
 the alert will show: "Hello World"
 
-# 6. Question: What is the value of foo.length?
+### 6. Question: What is the value of foo.length?
 ```javascript
 var foo = [];
 foo.push(1);
@@ -85,7 +83,7 @@ answer:
 
 foo equals: [1, 2]
 
-# 7. Question: What is the value of foo.x?
+### 7. Question: What is the value of foo.x?
 ```javascript
 var foo = {n: 1};
 var bar = foo;
@@ -97,7 +95,7 @@ answer:
 foo.x is undefined 
 foo is object Object
 
-# 8. Question: What does the following code print?  
+### 8. Question: What does the following code print?  
 ```javascript
 
 console.log('one');
@@ -110,7 +108,7 @@ answer:
 
 for 0 seconds the answer is "onethree" but then it turns to "two"
 
-# 9. Question: What is the difference between these four promises?  
+### 9. Question: What is the difference between these four promises?  
 ```javascript
 doSomething().then(function () {
   return doSomethingElse();
