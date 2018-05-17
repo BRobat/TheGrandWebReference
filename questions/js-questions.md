@@ -1,11 +1,27 @@
 
 ### 1. Explain event delegation  
-answer: 
+answer:  
 Event delegation allows us to attach a single event listener (for example cell in a table) to a parent element (table), that will fire for all descendants matching a selector, whether those descendants exist now or are added in the future.
 
 ### 2. Explain how event delegation works in JavaScript  
-answer:
+answer:  
 The best explanation I think is thru code. So here is some code for highlighting cells in a table:
+
+```html
+<table>
+  <tr>
+    <th colspan="3"><em>Bagua</em> Chart: Direction, Element, Color, Meaning</th>
+  </tr>
+  <tr>
+    <td>...<strong>Northwest</strong>...</td>
+    <td>...</td>
+    <td>...</td>
+  </tr>
+  <tr>...2 more lines of this kind...</tr>
+  <tr>...2 more lines of this kind...</tr>
+</table>
+```
+
 ```javascript
 table.onclick = function(event) {
     let td = event.target.closest('td');
@@ -24,7 +40,13 @@ table.onclick = function(event) {
 
 
 ### 3. Explain how prototypal inheritance works  
-answer:
+answer:  
+What is prototype?  
+A prototype of an object is just another object that is used as fallback source of properties. When an object gets a request for a property that it does not have, its prototype will be searched for the property, then the prototype’s prototype, and so on.  
+What is inheritance?  
+
+
+Now as we know what inheritance and prototype are
 
 ### 4. What do you think of AMD vs CommonJS?  
 answer:
