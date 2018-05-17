@@ -3,7 +3,7 @@
 #1. What does a doctype do?
 answer:
 
-#2. How to serve a page with content in multiple languages?
+#2. How do you serve a page with content in multiple languages?
 answer:
 
 #3. What kind of things must you be wary of when design or developing for multilingual sites?
